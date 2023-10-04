@@ -207,7 +207,7 @@ img{ max-width:100%;}
 
 {% if user.patient.is_patient  %}
   <div class="container ml-5 mr-5">
-          <button type="button" class="btn btn-outline-secondary" data-toggle="collapse" data-target="#demo">Give Rating and Reviews to Doctor {{consultation.doctor.name}}</button>
+          <button type="button"  style="background-color:#ebebeb;" class="btn btn-outline-secondary" data-toggle="collapse" data-target="#demo">Give Rating and Reviews to Doctor {{consultation.doctor.name}}</button>
                   <div id="demo" class="collapse">
                       
                     <form action="{% url 'rate_review' consultation.id %}" method="POST"> 
