@@ -20,12 +20,14 @@ make a new environment(recommended) and run...
 https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
 ### Some Sceenshots of This Webapp -
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/Home.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/Login.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/Signup.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/Doctor.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/CheckDisease.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/Consult.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/ConsultUI.png)
 
-![]()
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture2.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture3.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
 
 
 
