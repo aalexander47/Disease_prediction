@@ -27,6 +27,7 @@ https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 ![](https://github.com/aalexander47/Disease/blob/main/screenshots/CheckDisease.png)
 ![](https://github.com/aalexander47/Disease/blob/main/screenshots/Consult.png)
 ![](https://github.com/aalexander47/Disease/blob/main/screenshots/ConsultUI.png)
+![](https://github.com/aalexander47/Disease/blob/main/screenshots/Database.png)
 
 
 
